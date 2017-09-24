@@ -28,6 +28,23 @@
         <project.build.targetEncoding>UTF-8</project.build.targetEncoding>
     </properties>
 
+    <issueManagement>
+        <url>https://github.com/onrclk/spring-boot-calculator/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/onrclk/spring-mvc-calculator</url>
+        <connection>scm:git:git://github.com/onrclk/spring-boot-calculator.git</connection>
+    </scm>
 
     <developers>
         <developer>
