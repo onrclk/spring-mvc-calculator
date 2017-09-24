@@ -29,7 +29,7 @@
     </properties>
 
     <issueManagement>
-        <url>https://github.com/onrclk/spring-boot-calculator/issues</url>
+        <url>https://github.com/onrclk/spring-mvc-calculator/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
@@ -43,7 +43,7 @@
 
     <scm>
         <url>https://github.com/onrclk/spring-mvc-calculator</url>
-        <connection>scm:git:git://github.com/onrclk/spring-boot-calculator.git</connection>
+        <connection>scm:git:git://github.com/onrclk/spring-mvc-calculator.git</connection>
     </scm>
 
     <developers>
