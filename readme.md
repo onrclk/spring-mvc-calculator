@@ -1,1 +1,1 @@
-# Spring MVC Calculator with jQuery, Ajax, Html Edit
+# Spring MVC Calculator with jQuery, Ajax, Html
